@@ -1,4 +1,4 @@
-# Workflow Overview: Reezen (Agentic Causal Decision Intelligence Platform)
+# Workflow Overview: Reezen (An Agentic Causal Decision Intelligence Platform)
 
 Reezen is an agentic decision-engineering system that transforms ambiguous, high-stakes strategic problems into structured decision specs and verifiable, evidence-backed recommendations.
 
