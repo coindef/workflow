@@ -19,3 +19,13 @@ Reezen is built around two fundamental primitives designed to reduce black-box b
 
 
 [![Workflow Diagram](workflow.png)](workflow.png)
+
+## License
+
+Apache 2.0 - See [LICENSE](LICENSE) file for details.
+
+## Support
+
+For issues and questions:
+- GitHub Issues: https://github.com/coindef/workflow/
+- Documentation: See `/docs` directory
